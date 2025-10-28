@@ -18,6 +18,8 @@ It lists all files, line numbers, and the exact lines where the email appears.
 
     git clone https://github.com/prabhsecure/Email_Finder.git
     cd Email_Finder
+    chmod + email_finder.py
+    python3 email_finder.py
 
 ⚙️ Step 2: Run the Script
 
