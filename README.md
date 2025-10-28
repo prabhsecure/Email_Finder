@@ -12,3 +12,4 @@ It lists all files, line numbers, and the exact lines where the email appears.
 ⚙️ Ignores encoding errors automatically
 
 💡 Simple command-line interface with ASCII art header
+
